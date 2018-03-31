@@ -1,0 +1,2 @@
+# datascience_project1_BankCustomerDemo
+stepwise implementation of a datascience project
